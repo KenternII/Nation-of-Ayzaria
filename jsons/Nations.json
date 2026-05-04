@@ -4,7 +4,7 @@
 		"name": "Ayzaria",
 		"leaderName": "Kentern II",
 		"adjective": ["Ayzarian"],
-		"startBias": ["Tundra, Coast"],
+		"startBias": ["Tundra","Coast"],
 		"preferredVictoryType": "Domination",
 		"personality": "Kentern II",
 
@@ -22,10 +22,10 @@
 		"tradeRequest": "I offer you these humble wares, for your exquisite treasures.",
 
 		"outerColor": [135,135,125],
-		"innerColor": [255,184,31],
+		"innerColor": [255,144,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Growing shadow of the snowlands",
-		"uniques": ["[+1 food, +1 gold, +1 science] from every [Tundra, Snow] tile","[-50]% strength <for all units> when in Ancient era","[-30]% strength <for all units> when in Classical era","[-10]% strength <for all units> when in Medieval era","[+10]% strength <for all units> when in Industrial era","[+30]% strength <for all units> when in Modern era","[+50]% strength <for all units> post-[Modern era]"],
+		"uniques": ["[+1 food],[+1 gold],[+1 science] from every [Tundra],[Snow] tile","[-50]% strength <for all units> when in Ancient era","[-30]% strength <for all units> when in Classical era","[-10]% strength <for all units> when in Medieval era","[+10]% strength <for all units> when in Industrial era","[+30]% strength <for all units> when in Modern era","[+50]% strength <for all units> post-[Modern era]"],
 		"cities": ["Ayzar","Kenternia","Colpos","Iktimia","Tunddur","Mixirf","Oploqim","Vulburg","Werexol","Colovie","Arisip","Klesfor","Vickston","Icevice","Montken","Yuroxle","Aklabuto","Zewigpun","Nayonsag","Caspidi","Madarrulog","Pluhsk","Derisinloc",
     "Qlinfalgar","Nayongpulowalamaisipnapangalan","Montezar","Augharl","Bucovat","Molksety","Vivils","Poaltzy","Bolokq","Jeirlinky","Resicutor","Montwerl","Estayzar","Nuukenter","Velidic-Mosorobos","Clorislent","Monttern","Ternilliuston","Izzidy","Coloc-Sadalba"],
         "spyNames": ["Ternillius", "Avarados", "Toril", "Roxmok", "Serryl", "Ariagara", "Jahn", "Clovos", "Subus-Parius", "Aroudie"]
