@@ -21,11 +21,11 @@
 
 		"tradeRequest": "I offer you these humble wares, for your exquisite treasures.",
 
-		"outerColor": [135,135,125],
-		"innerColor": [255,144,0],
+		"outerColor": [99,99,92],
+		"innerColor": [255,177,76],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Growing shadow of the snowlands",
-		"uniques": ["[+1 Food] from every [Tundra]","[+1 Food from every [Snow]",
+		"uniques": ["[+1 Food] from every [Tundra]","[+1 Food] from every [Snow]",
 			"[+1 Gold] from every [Tundra]","[+1 Gold] from every [Snow]",
 			"[+1 Science] from every [Tundra]","[+1 Science] from every [Snow]",
 			"[-50]% Strength <during the [Ancient era]>","[-30]% Strength <during the [Classical era]>","[-10]% Strength <during the [Medieval era]>","[+10]% Strength <during the [Industrial era]>","[+30]% Strength <during the [Modern era]>","[+50]% Strength <starting from the [Atomic era]>"],
